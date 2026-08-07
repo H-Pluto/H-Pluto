@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | 💡 Technology Enthusiast | 🌱 Continuous Learner
+### 🚀 全栈开发工程师 | 💡 技术爱好者 | 🌱 持续学习者
 
 [![GitHub followers](https://img.shields.io/github/followers/Liyi-dev?style=social)](https://github.com/Liyi-dev)
 [![GitHub stars](https://img.shields.io/github/stars/Liyi-dev?style=social)](https://github.com/Liyi-dev)
@@ -22,27 +22,28 @@
 ## 👨‍💻 解剖学
 
 ```yaml
-name: li
-location: Earth 🌍
-role: Software Engineer
-focus:
-  - Backend Development
-  - Cloud Native
-  - Distributed Systems
-  - Artificial Intelligence
+姓名: li
+所在地: 地球 🌍
+职位: 软件工程师
 
-currently_learning:
+专注领域:
+  - 后端开发
+  - 云原生技术
+  - 分布式系统
+  - 人工智能
+
+当前学习:
   - Kubernetes
-  - System Design
-  - Large Language Models
+  - 系统设计
+  - 大语言模型
 
-motto:
-  "Keep coding, keep learning, keep creating."
+座右铭:
+  "持续编码，持续学习，持续创造。"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 ### 💻 八国语言
 
@@ -186,9 +187,9 @@ motto:
 
 ---
 
-## ✍️ Latest
+## ✍️ 最近动态
 
-- 💡 Exploring AI technology
+- 💡 探索 AI 技术
 
 
 ---
