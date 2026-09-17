@@ -88,6 +88,7 @@
 ![Layui](https://img.shields.io/badge/Layui-2B7A78?style=for-the-badge&logo=layui&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![uni-app](https://img.shields.io/badge/uni--app-2B9939?style=for-the-badge&logo=uniapp&logoColor=white)
 
 ### 🖥️ 桌面开发
 ![WinForm](https://img.shields.io/badge/WinForm-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
