@@ -11,8 +11,8 @@
 
 ### 🚀 全栈开发工程师 | 💡 技术爱好者 | 🌱 持续学习者
 
-[![GitHub followers](https://img.shields.io/github/followers/Liyi-dev?style=social)](https://github.com/Liyi-dev)
-[![GitHub stars](https://img.shields.io/github/stars/Liyi-dev?style=social)](https://github.com/Liyi-dev)
+[![GitHub followers](https://img.shields.io/github/followers/H-Pluto?style=social)](https://github.com/H-Pluto)
+[![GitHub stars](https://img.shields.io/github/stars/H-Pluto?style=social)](https://github.com/H-Pluto)
 
 </div>
 
@@ -161,16 +161,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Liyi-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=H-Pluto&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyi-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Pluto&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Liyi-dev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=H-Pluto&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -182,7 +182,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Liyi-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=H-Pluto&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -202,7 +202,7 @@
 <div align="center">
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Liyi-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/H-Pluto)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](#)
 
@@ -218,7 +218,7 @@
 
 ### ⭐ 你知道的，你其实已经看完了!
 
-<img src="https://komarev.com/ghpvc/?username=Liyi-dev&style=flat-square&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=H-Pluto&style=flat-square&color=blue"/>
 
 </div>
 
