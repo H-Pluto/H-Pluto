@@ -69,6 +69,7 @@
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud Alibaba](https://img.shields.io/badge/Spring_Cloud_Alibaba-6DB33F?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![go-zero](https://img.shields.io/badge/go--zero-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ASPX](https://img.shields.io/badge/ASPX-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
